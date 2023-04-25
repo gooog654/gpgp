@@ -27,7 +27,7 @@ void affichermatrice( int A[][100],int N){
 }
 int main(){
 	int N;
-	printf("entrez la taille de la matrice careè= ");
+	printf("entrez la taille de la matrice careÃ¨= ");
 	scanf("%d",&N);
 	int A[100][100];
 	remplirmatrice (A,N);
